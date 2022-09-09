@@ -1,0 +1,11 @@
+archive_root: /glade/scratch/mclong/archive/C1850MOMMARBL.TL319_t061.001
+case: C1850MOMMARBL.TL319_t061.001
+caseroot: /glade/work/mclong/mom6-marbl-cases/cases/C1850MOMMARBL.TL319_t061.001
+compset: C1850MOMMARBL
+description: '
+
+  my first MOM6 run
+
+  '
+resolution: TL319_t061
+rundir: /glade/scratch/mclong/C1850MOMMARBL.TL319_t061.001
